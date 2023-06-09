@@ -1,7 +1,7 @@
 import type {Mode, PaletteConfig} from '~/types'
 
 export const DEFAULT_STOP = 500
-export const DEFAULT_STOPS = [0, 20, 40, 60, 80, 100, 130, 200, 300, 400, 500, 600, 700, 760, 780, 800, 830, 880, 900, 940, 1000]
+export const DEFAULT_STOPS = [0, 20, 40, 60, 80, 100, 130, 200, 300, 400, 500, 600, 700, 760, 780, 800, 830, 880, 900, 940, 960, 1000]
 
 export const MODES: Mode[] = [`hex`, `p-3`]
 
